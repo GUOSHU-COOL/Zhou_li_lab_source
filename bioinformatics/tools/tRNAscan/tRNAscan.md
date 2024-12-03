@@ -19,3 +19,5 @@ https://zhuanlan.zhihu.com/p/10556634471 Author：Guoshuyu      
 2. 本文档仅作为概要和要点汇总使用，详细案例和代码实现请参考原文。
 
 ### 操作脚本
+multi_tRNA_predict.py是批量预测每个文件夹里一个fasta文件.
+check_tRNA_calculate_all.py是统计所有预测的结果的。
